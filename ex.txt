@@ -1,0 +1,7 @@
+Hello
+How are you?
+We are typing
+several lines here
+and testing
+our code
+yay!
